@@ -1,1 +1,1 @@
-This is a short story about learning git. Students in Actualize coding bootcamp learned to use git together. Git is a great way to keep track of updates on projects.
+This is a short story about learning git. Students in Actualize coding bootcamp learned to use git together. Git is a great way to keep track of updates on your projects.
